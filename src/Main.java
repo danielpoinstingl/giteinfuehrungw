@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hi3");
         System.out.println("Hi4");
         System.out.println("Hi5");
+        System.out.println("Hi6");
     }
 }
